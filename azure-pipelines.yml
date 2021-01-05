@@ -26,7 +26,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'AHIConnection'
-    testSet: 'AHI Test Set'
+    testSet: 'AHITestSuite'
     folderName: 'Default'
   continueOnError: true
   
